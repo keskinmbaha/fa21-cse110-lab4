@@ -1,0 +1,2 @@
+1. The bug was the when getting values from user input, the javascript converts the input to strings, and then when adding the values it does string concatenation.
+2. I would fix it by converting the string number inputs to ints.
